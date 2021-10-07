@@ -1,0 +1,35 @@
+Chiki, 3000
+Cheetos, 3500
+Chitato, 4000
+Qtela, 6000
+Lays, 7000
+Doritos, 8000
+Taro, 3000
+French Fries, 5000
+Potabee, 5000
+Kacang Garuda, 6000
+Kacang Sukro, 4000
+Wafer, 2000
+Keripik Kusuka, 6000
+Silverqueen, 25000
+Kerupuk udang, 5000
+Roma Biscuit, 7000
+Malkist, 4000
+Astor Wafer, 3000
+White Koffie, 2000
+Kitkat, 10000
+Khong Guan, 30000
+Cookies, 8000
+Nabati Biscuit, 5000
+Nano Candy, 3000
+Yogurt, 5000
+Nastar Brownies, 4000
+Wafer White, 5000
+Good Time, 4000
+Koko Kruch, 4000
+Chocolate, 3000
+Simba Cereal, 5000
+Biscuit, 4000
+Crips, 5000
+Firbar, 8000
+Quaker, 7000
